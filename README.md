@@ -1,4 +1,4 @@
-# Funky Friday AutoPlay
+# Funky Friday AutoPlay - Instructions Below - Please Read!
 > Funky Friday AutoPlay using Win32 API. Has limitations, (cant long press, delayed inputs on low end machines, windows only) but get's the job done. Please Star, it means a lot!
 
 # You must be Player 2 (Player on the right) for AutoPlay to work.

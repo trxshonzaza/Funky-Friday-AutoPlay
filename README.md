@@ -1,10 +1,9 @@
 # Funky Friday AutoPlay
 > Funky Friday AutoPlay using Win32 API. Has limitations, (cant long press, delayed inputs on low end machines, windows only) but get's the job done.
 
-[![NPM Version][npm-image]][npm-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/trxshonzaza/Funky-Friday-AutoPlay"> <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/trxshonzaza/Funky-Friday-AutoPlay"> <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/trxshonzaza/Funky-Friday-AutoPlay/total">
 
-![](header.png)
+
 
 ## Installation
 

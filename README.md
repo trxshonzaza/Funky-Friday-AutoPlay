@@ -1,5 +1,5 @@
 # Funky Friday AutoPlay
-> Funky Friday AutoPlay using Win32 API. Has limitations, (cant long press, delayed inputs on low end machines, windows only) but get's the job done.
+> Funky Friday AutoPlay using Win32 API. Has limitations, (cant long press, delayed inputs on low end machines, windows only) but get's the job done. Please Star, it means a lot!
 
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/trxshonzaza/Funky-Friday-AutoPlay"> <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/trxshonzaza/Funky-Friday-AutoPlay"> <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/trxshonzaza/Funky-Friday-AutoPlay/total">
 
@@ -19,7 +19,7 @@ Windows only. 🙂
 
 Distributed under the GNU GPL 3.0 license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/trxshonzaza/)
+[My Github](https://github.com/trxshonzaza/)
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
